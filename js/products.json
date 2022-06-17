@@ -30,6 +30,14 @@
 		"weight": 230,
 		"price": 320,
 		"imgSrc": "philadelphia.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Унаги классик",
+		"itemsInBox": 8,
+		"weight": 350,
+		"price": 420,
+		"imgSrc": "unagi.jpg"
 	}
 	
 ]
