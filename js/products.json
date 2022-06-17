@@ -26,10 +26,10 @@
 	{
 		"id": 4,
 		"title": "Филадельфия",
-		"itemsInBox": 6,
-		"weight": 230,
-		"price": 320,
-		"imgSrc": "philadelphia.jpg"
+		"itemsInBox": 8,
+		"weight": 330,
+		"price": 380,
+		"imgSrc": "fila.jpg"
 	},
 	{
 		"id": 5,
