@@ -33,11 +33,19 @@
 	},
 	{
 		"id": 5,
-		"title": "Унаги классик",
+		"title": "Унаги Классик",
 		"itemsInBox": 8,
 		"weight": 350,
 		"price": 420,
 		"imgSrc": "unagi.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Угорь Макси",
+		"itemsInBox": 8,
+		"weight": 320,
+		"price": 480,
+		"imgSrc": "ugor.jpg"
 	}
 	
 ]
